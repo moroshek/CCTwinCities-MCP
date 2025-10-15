@@ -1,0 +1,604 @@
+{
+  "volunteer": {
+    "opportunities": [
+      {
+        "id": "dinner-meal-service-higher-ground-minneapolis",
+        "title": "Dinner Meal Service at Higher Ground Minneapolis Shelter",
+        "description": "Serve hot dinner meals to men experiencing homelessness at the Higher Ground Shelter.",
+        "location": {
+          "city": "Minneapolis",
+          "facility": "Higher Ground Minneapolis Shelter",
+          "address": "165 Glenwood Avenue North, Minneapolis, MN 55405"
+        },
+        "schedule": {
+          "type": "ongoing",
+          "details": "Evening shifts available"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": null,
+          "skills": [],
+          "group_friendly": true,
+          "max_group_size": 15
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://www.idealist.org/en/nonprofit/ad24f76365b844f59fbf90e6f4a7ebb5-catholic-charities-twin-cities-minneapolis"
+      },
+      {
+        "id": "breakfast-meal-servers-dorothy-day-place",
+        "title": "Breakfast Meal Servers at St. Paul Dorothy Day Place",
+        "description": "Serve breakfast meals to individuals experiencing homelessness at Dorothy Day Place campus.",
+        "location": {
+          "city": "Saint Paul",
+          "facility": "Dorothy Day Place - Higher Ground Saint Paul",
+          "address": "Dorothy Day Place campus, Saint Paul, MN"
+        },
+        "schedule": {
+          "type": "ongoing",
+          "details": "Morning shifts, typically 7am-8am"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": null,
+          "skills": [],
+          "group_friendly": true,
+          "max_group_size": 15
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://www.idealist.org/en/nonprofit/ad24f76365b844f59fbf90e6f4a7ebb5-catholic-charities-twin-cities-minneapolis"
+      },
+      {
+        "id": "breakfast-lunch-meal-volunteers-frey-center",
+        "title": "Breakfast & Lunch Meal Volunteers at Mary F. Frey Opportunity Center",
+        "description": "Help serve breakfast and lunch meals at the Minneapolis Opportunity Center.",
+        "location": {
+          "city": "Minneapolis",
+          "facility": "The Mary F. Frey Opportunity Center",
+          "address": "Minneapolis, MN"
+        },
+        "schedule": {
+          "type": "ongoing",
+          "details": "Breakfast 7-8am, Lunch 11:30am-12:30pm"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": null,
+          "skills": [],
+          "group_friendly": true,
+          "max_group_size": 15
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://www.idealist.org/en/nonprofit/ad24f76365b844f59fbf90e6f4a7ebb5-catholic-charities-twin-cities-minneapolis"
+      },
+      {
+        "id": "warehouse-sort-prep-distribution-center",
+        "title": "Warehouse Sort & Prep at St. Paul Distribution Center",
+        "description": "Sort and prepare donated items for distribution to Catholic Charities programs (Age 14+).",
+        "location": {
+          "city": "St. Paul",
+          "facility": "Catholic Charities Distribution Center",
+          "address": "341 Chester Street, St. Paul, MN 55107"
+        },
+        "schedule": {
+          "type": "flexible",
+          "details": "Monday-Friday 9:00am-4:00pm"
+        },
+        "requirements": {
+          "age_minimum": 14,
+          "background_check": null,
+          "skills": [],
+          "group_friendly": true,
+          "max_group_size": 15
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8295",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://www.idealist.org/en/nonprofit/ad24f76365b844f59fbf90e6f4a7ebb5-catholic-charities-twin-cities-minneapolis"
+      },
+      {
+        "id": "volunteer-sewist-mend-clothing",
+        "title": "Volunteer Sewist - Mend Clothing for Homeless Neighbors",
+        "description": "Use sewing skills to mend and repair clothing for people experiencing homelessness.",
+        "location": {
+          "city": "Minneapolis",
+          "facility": "Various locations",
+          "address": null
+        },
+        "schedule": {
+          "type": "flexible",
+          "details": "Flexible hours"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": null,
+          "skills": [
+            "sewing"
+          ],
+          "group_friendly": false,
+          "max_group_size": null
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://www.idealist.org/en/nonprofit/ad24f76365b844f59fbf90e6f4a7ebb5-catholic-charities-twin-cities-minneapolis"
+      },
+      {
+        "id": "painting-project-group",
+        "title": "Painting Project for Your Team",
+        "description": "Group volunteer opportunity to paint and refresh Catholic Charities facilities.",
+        "location": {
+          "city": "Saint Paul",
+          "facility": "Various Catholic Charities facilities",
+          "address": null
+        },
+        "schedule": {
+          "type": "one-time",
+          "details": "Scheduled by arrangement"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": null,
+          "skills": [],
+          "group_friendly": true,
+          "max_group_size": 15
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://www.idealist.org/en/nonprofit/ad24f76365b844f59fbf90e6f4a7ebb5-catholic-charities-twin-cities-minneapolis"
+      },
+      {
+        "id": "baking-family-service-center",
+        "title": "Baking for Families in Shelter",
+        "description": "Bake desserts and treats for families experiencing homelessness at the Family Service Center.",
+        "location": {
+          "city": "Maplewood",
+          "facility": "Family Service Center",
+          "address": "2001 Van Dyke Street, Maplewood, MN 55109"
+        },
+        "schedule": {
+          "type": "flexible",
+          "details": "Flexible baking schedule"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": null,
+          "skills": [
+            "baking",
+            "cooking"
+          ],
+          "group_friendly": false,
+          "max_group_size": null
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://cctwincities.org/baking-for-families-in-shelter/"
+      },
+      {
+        "id": "court-ordered-volunteer",
+        "title": "Court-Ordered Volunteer Opportunities",
+        "description": "Complete court-ordered volunteer hours at the Distribution Center.",
+        "location": {
+          "city": "St. Paul",
+          "facility": "Catholic Charities Distribution Center",
+          "address": "341 Chester Street, St. Paul, MN 55107"
+        },
+        "schedule": {
+          "type": "flexible",
+          "details": "Monday-Friday 9:00am-4:00pm"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": null,
+          "skills": [],
+          "group_friendly": false,
+          "max_group_size": null
+        },
+        "signup_url": "https://cctwincities.org/volunteer/court-ordered-volunteer-opportunities/",
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://cctwincities.org/volunteer/court-ordered-volunteer-opportunities/"
+      },
+      {
+        "id": "student-internship",
+        "title": "Student Internship Opportunities",
+        "description": "Intern with Catholic Charities to gain hands-on experience in social services.",
+        "location": {
+          "city": "Minneapolis",
+          "facility": "Various Catholic Charities locations",
+          "address": "1007 East 14th Street, Minneapolis, MN 55404"
+        },
+        "schedule": {
+          "type": "ongoing",
+          "details": "Varies by internship"
+        },
+        "requirements": {
+          "age_minimum": 18,
+          "background_check": true,
+          "skills": [],
+          "group_friendly": false,
+          "max_group_size": null
+        },
+        "signup_url": null,
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://cctwincities.org/volunteer/"
+      },
+      {
+        "id": "family-youth-volunteer",
+        "title": "Family and Youth Volunteer Opportunities",
+        "description": "Volunteer opportunities for families and youth groups (age 14+ with adult supervision).",
+        "location": {
+          "city": "Twin Cities",
+          "facility": "Various locations",
+          "address": null
+        },
+        "schedule": {
+          "type": "flexible",
+          "details": "Varies by opportunity"
+        },
+        "requirements": {
+          "age_minimum": 14,
+          "background_check": false,
+          "skills": [],
+          "group_friendly": true,
+          "max_group_size": 15
+        },
+        "signup_url": "https://cctwincities.org/volunteer/family-and-youth-volunteer-opportunities/",
+        "contact": {
+          "phone": "(612) 204-8435",
+          "email": "volunteer@cctwincities.org"
+        },
+        "source_url": "https://cctwincities.org/volunteer/family-and-youth-volunteer-opportunities/"
+      }
+    ],
+    "general_info": {
+      "main_contact": {
+        "phone": "(612) 204-8435",
+        "email": "volunteer@cctwincities.org",
+        "web_form_url": "https://cctwincities.org/volunteer/"
+      },
+      "policies": [
+        "Volunteers must be 18 years or older to volunteer independently",
+        "Volunteers aged 14-17 can participate with adult supervision and minor waiver",
+        "Groups of 3-15 people can generally be accommodated",
+        "Large groups of 20-100+ can be accommodated by special arrangement with advance notice",
+        "Closed-toe shoes required for all volunteers",
+        "Long pants required for kitchen work",
+        "No heavy perfumes or colognes recommended",
+        "Advance cancellation required if unable to attend scheduled volunteer shift",
+        "All volunteers receive task description, training, and supervision",
+        "More than 4,000 volunteers donate time annually",
+        "Volunteers provided over 40,000+ service hours last year"
+      ],
+      "source_url": "https://cctwincities.org/volunteer/"
+    }
+  },
+  "donations": {
+    "online": {
+      "donation_page_url": "https://cctwincities.org/donate/",
+      "types": [
+        "one-time",
+        "recurring",
+        "tribute",
+        "memorial"
+      ],
+      "contact": {
+        "phone": "(612) 204-8374",
+        "email": "giving.info@cctwincities.org"
+      },
+      "notes": "Donations support emergency shelters, affordable housing, meals, children and family services, and aging/disability programs",
+      "source_url": "https://cctwincities.org/donate/"
+    },
+    "in_kind": {
+      "accepted_items": [
+        {
+          "category": "Clothing",
+          "details": "Winter jackets/coats (men's adult sizes), waterproof mittens and gloves (adult sizes), winter boots (all ages/sizes/genders), athletic shoes (men's sizes 9-13), slip-on shoes (Croc style), underwear (all sizes, male and female), belts (one-size and stretch), men's jeans/pants (34in to 44in), sweatshirts and sweatpants (M-4XL), crew socks (cotton and thermal), long sleeve t-shirts (L-4XL), thermal underwear sets (M-4XL), pajama sets",
+          "restrictions": "New items only"
+        },
+        {
+          "category": "Personal Hygiene",
+          "details": "Lotion (full and travel sizes), toothpaste (full and travel sizes), chapstick/lip balm, razors, coily textured hair products (braiding kits, deep conditioner, styling products), deodorant (gender neutral), body spray and perfume, body wash and bar soap (full and travel sizes), foot powder, shampoo and conditioner (full and travel sizes), tampons",
+          "restrictions": "New and unused items only"
+        },
+        {
+          "category": "Linens and Bedding",
+          "details": "Towels (bath, hand, and washcloths), air beds with pump (twin, full, queen), 'Bed in a Bag'/bed sets (twin, full, queen), sheet sets (twin, full, queen), blankets or comforters (twin, full, queen)",
+          "restrictions": "New items only"
+        },
+        {
+          "category": "Household Items",
+          "details": "Cooking pots with lid (2qt-4qt), frying pans (8in-12in), starter pot and pan cooking sets, crock pots/slow cookers, air fryers",
+          "restrictions": "New items only"
+        },
+        {
+          "category": "Food",
+          "details": "Non-perishable food items for distribution to programs",
+          "restrictions": "No expired items"
+        },
+        {
+          "category": "Miscellaneous",
+          "details": "Hand and foot warmers, sketch/drawing pads, meditation/mandala coloring books, colored pencils/marker sets, word search/sudoku books, alarm clocks, shower shoes/flip flops, backpacks (adult size), bike locks, fidgets or sensory toys, blank journals, monthly planners",
+          "restrictions": "New items only"
+        }
+      ],
+      "not_accepted": [
+        "Used items (all donations must be new and unwrapped)",
+        "Expired food",
+        "Broken or damaged items",
+        "Home-canned items"
+      ],
+      "drop_off_locations": [
+        {
+          "name": "Catholic Charities Distribution Center",
+          "address": "341 Chester Street, St. Paul, MN 55107",
+          "hours": "Monday-Friday 9:00am-4:00pm",
+          "phone": "(612) 204-8295",
+          "email": "carys.church@cctwincities.org"
+        }
+      ],
+      "policies": [
+        "All items must be new and unused",
+        "Large donations or group collections should call ahead to arrange drop-off",
+        "Do not leave donations outside the doors",
+        "Donations must be collected and weighed by staff for food safety and inventory tracking"
+      ],
+      "wishlist_url": "https://cctwincities.org/donate/in-kind-donations/",
+      "contact": {
+        "phone": "(612) 204-8295",
+        "email": "carys.church@cctwincities.org"
+      },
+      "source_url": "https://cctwincities.org/donate/in-kind-donations/"
+    },
+    "vehicle": {
+      "phone": "1-877-952-2872",
+      "process_description": "Donate cars, trucks, trailers, boats, RVs, motorcycles, and other motorized vehicles. Free pickup available. Running or not running vehicles accepted. Tax deductible donation receipt provided.",
+      "program_url": "https://cctwincities.careasy.org/home",
+      "source_url": "https://www.catholiccharitiesusa.org/ways-to-give/donate-a-vehicle/"
+    },
+    "other_methods": [
+      {
+        "type": "Planned Giving",
+        "description": "Leave a legacy through wills, trusts, beneficiary designations, charitable gift annuities, life insurance, retirement assets, stocks, bonds, and real estate.",
+        "url": "https://cctwincities.org/donate/planned-giving/"
+      },
+      {
+        "type": "Donor-Advised Fund",
+        "description": "Simple, flexible, tax-efficient way to make charitable contributions to areas matching your interests such as housing stability or advocacy.",
+        "url": "https://cctwincities.org/donate/donor-advised-fund-giving/"
+      },
+      {
+        "type": "Host a Fundraiser",
+        "description": "Organize a fundraising event with family, friends, and coworkers to support Catholic Charities Twin Cities.",
+        "url": "https://cctwincities.org/donate/host-a-fundraiser/"
+      }
+    ]
+  },
+  "organization": {
+    "mission": "Our mission is to serve those most in need. We are a leader at solving poverty, creating opportunity, and advocating for justice in the community.",
+    "services": [
+      {
+        "name": "Adult Emergency Shelters",
+        "description": "Overnight emergency shelter providing safety, hot meals, showers, lockers, and pathways to stability for adults experiencing homelessness.",
+        "keywords": [
+          "homeless",
+          "shelter",
+          "emergency housing",
+          "overnight shelter",
+          "meals"
+        ]
+      },
+      {
+        "name": "Affordable Housing Solutions",
+        "description": "Permanent supportive housing for individuals, veterans, and people with complex medical conditions including single-room occupancy units.",
+        "keywords": [
+          "affordable housing",
+          "permanent housing",
+          "supportive housing",
+          "veterans housing",
+          "single room occupancy"
+        ]
+      },
+      {
+        "name": "Opportunity Centers",
+        "description": "Daytime resources connecting people with medical and mental health care, meals, showers, internet access, laundry, and employment counseling.",
+        "keywords": [
+          "daytime services",
+          "job search",
+          "employment help",
+          "health care",
+          "basic needs"
+        ]
+      },
+      {
+        "name": "Children and Family Services",
+        "description": "Comprehensive support including early parenting education, preventive services, family shelter, childcare, and day treatment programs.",
+        "keywords": [
+          "family shelter",
+          "childcare",
+          "parenting education",
+          "child development",
+          "family support"
+        ]
+      },
+      {
+        "name": "Aging and Disability Services",
+        "description": "Person-centered support empowering vulnerable elders and individuals with disabilities to live safely and independently through intensive case management.",
+        "keywords": [
+          "elder care",
+          "disability services",
+          "senior support",
+          "case management",
+          "independent living"
+        ]
+      },
+      {
+        "name": "Food Services",
+        "description": "More than one million meals served annually through breakfast, lunch, dinner, and family-style meal programs at various locations.",
+        "keywords": [
+          "food",
+          "meals",
+          "hungry",
+          "food insecurity",
+          "free meals",
+          "breakfast",
+          "lunch",
+          "dinner"
+        ]
+      },
+      {
+        "name": "Medical Respite",
+        "description": "Short-term recuperative care for people experiencing homelessness who need additional recovery time after hospital release.",
+        "keywords": [
+          "medical care",
+          "health care",
+          "recuperative care",
+          "hospital discharge",
+          "medical respite"
+        ]
+      },
+      {
+        "name": "Housing First Program",
+        "description": "Supportive services helping people experiencing homelessness secure and maintain housing in apartments throughout the community.",
+        "keywords": [
+          "housing assistance",
+          "rent help",
+          "housing search",
+          "permanent housing",
+          "housing stability"
+        ]
+      }
+    ],
+    "service_area": "Twin Cities metro area (Minneapolis and St. Paul), Minnesota",
+    "locations": [
+      {
+        "name": "Catholic Charities Administrative Center (The Frey Center)",
+        "address": "1007 East 14th Street, Minneapolis, MN 55404",
+        "phone": "(612) 204-8500",
+        "type": "administrative"
+      },
+      {
+        "name": "Higher Ground Minneapolis Shelter",
+        "address": "165 Glenwood Avenue North, Minneapolis, MN 55405",
+        "phone": null,
+        "type": "service-center"
+      },
+      {
+        "name": "The Mary F. Frey Opportunity Center",
+        "address": "Minneapolis, MN",
+        "phone": null,
+        "type": "service-center"
+      },
+      {
+        "name": "Higher Ground Saint Paul (Dorothy Day Place campus)",
+        "address": "Downtown Saint Paul, MN",
+        "phone": null,
+        "type": "service-center"
+      },
+      {
+        "name": "Richard M. Schulze Family Foundation Saint Paul Opportunity Center",
+        "address": "Dorothy Day Place campus, Saint Paul, MN",
+        "phone": null,
+        "type": "service-center"
+      },
+      {
+        "name": "Family Service Center",
+        "address": "2001 Van Dyke Street, Maplewood, MN 55109",
+        "phone": "(651) 647-2300",
+        "type": "service-center"
+      },
+      {
+        "name": "Catholic Charities Distribution Center",
+        "address": "341 Chester Street, St. Paul, MN 55107",
+        "phone": "(612) 204-8295",
+        "type": "service-center"
+      }
+    ],
+    "contact": {
+      "main_phone": "(612) 204-8500",
+      "main_email": "info@cctwincities.org",
+      "hours": "Monday-Friday (business hours)"
+    },
+    "about": {
+      "founded": "1869",
+      "history": "For more than 150 years, Catholic Charities has been an integral part of the Twin Cities community, directly serving the most vulnerable neighbors and adapting to meet evolving community needs.",
+      "stats": {
+        "people_served_annually": 30000,
+        "meals_served_annually": 1000000,
+        "nights_of_housing_provided_annually": 550000,
+        "volunteers_annually": 4000,
+        "volunteer_hours_annually": 40000,
+        "years_operating": 156
+      }
+    },
+    "upcoming_events": [
+      {
+        "name": "Spirit of the Season",
+        "date": "2025-12-11",
+        "description": "Holiday fundraising event featuring dining, music, and mission stories at The Depot Minneapolis.",
+        "url": "https://cctwincities.org/events/2025-spirit-of-the-season/"
+      },
+      {
+        "name": "Giving Tree at Mall of America",
+        "date": "2025-12-20",
+        "description": "Community event to shop for gifts for people in need, participate in volunteer activities, and learn about Catholic Charities.",
+        "url": "https://cctwincities.org/events/givingtree/"
+      },
+      {
+        "name": "Zoomin' with Catholic Charities",
+        "date": "2025-10-15",
+        "description": "Virtual event discussing housing and mental health with CEO Jamie Verbrugge and Catholic Charities staff.",
+        "url": "https://cctwincities.org/events/zoomin-with-catholic-charities/"
+      }
+    ],
+    "discovery_keywords": [
+      "homeless shelter minneapolis",
+      "homeless shelter st paul",
+      "food shelf twin cities",
+      "free meals minneapolis",
+      "emergency shelter minnesota",
+      "affordable housing minneapolis",
+      "family shelter twin cities",
+      "help for homeless",
+      "senior services minneapolis",
+      "disability services st paul",
+      "childcare minneapolis",
+      "family services twin cities",
+      "mental health support",
+      "addiction resources",
+      "job training minneapolis",
+      "emergency assistance",
+      "housing help minneapolis",
+      "meal programs twin cities",
+      "supportive housing",
+      "veteran housing minneapolis"
+    ],
+    "source_url": "https://cctwincities.org"
+  }
+}
