@@ -1,0 +1,33 @@
+# Render Blueprint for Catholic Charities Twin Cities MCP Server
+# https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: cctc-mcp-server
+    env: node
+    region: oregon  # Choose closest to your users (oregon, ohio, frankfurt, singapore)
+    plan: free  # Start with free, upgrade to starter/standard as needed
+
+    # Build Configuration
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+
+    # Health Check
+    healthCheckPath: /health
+
+    # Environment Variables
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+      - key: ALLOWED_ORIGINS
+        value: https://chat.openai.com,https://chatgpt.com
+
+      # Render automatically sets PORT - don't override
+      # But your app should read process.env.PORT
+
+    # Auto-Deploy Configuration
+    autoDeploy: true  # Deploy on every git push to main branch
+
+    # Branch to deploy from
+    branch: main
