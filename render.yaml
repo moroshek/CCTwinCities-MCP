@@ -21,7 +21,7 @@ services:
         value: production
 
       - key: ALLOWED_ORIGINS
-        value: https://chat.openai.com,https://chatgpt.com
+        value: https://chat.openai.com,https://chatgpt.com,https://web-sandbox.oaistatic.com,https://chatgpt-com.web-sandbox.oaistatic.com
 
       # Render automatically sets PORT - don't override
       # But your app should read process.env.PORT
