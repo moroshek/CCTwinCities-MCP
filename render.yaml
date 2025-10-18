@@ -20,8 +20,9 @@ services:
       - key: NODE_ENV
         value: production
 
-      - key: ALLOWED_ORIGINS
-        value: https://chat.openai.com,https://chatgpt.com,https://web-sandbox.oaistatic.com,https://chatgpt-com.web-sandbox.oaistatic.com
+      # Temporarily allow all origins for testing - narrow down after confirming it works
+      # - key: ALLOWED_ORIGINS
+      #   value: https://chat.openai.com,https://chatgpt.com,https://web-sandbox.oaistatic.com,https://chatgpt-com.web-sandbox.oaistatic.com
 
       # Render automatically sets PORT - don't override
       # But your app should read process.env.PORT
